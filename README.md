@@ -2,17 +2,17 @@
 I'm Zesion.
 
 ## 🚀 Tech Stack
-![Skills](https://skillicons.dev/icons?i=js,python,react,nodejs)
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nodejs,java,spring)
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zesion21&show_icons=true&theme=radical)
 
 ## 📚 Projects
 - **[Project Name]**: A brief description. [Link](#)
 
 ## 📬 Contact
-- Email: your.email@example.com
-- Twitter: [@YourHandle](https://twitter.com/YourHandle)
+- Email: zechen21@foxmail.com
+- Bilibili: (https://space.bilibili.com/32763783)
 
 ![Snake Animation](dist/github-contribution-grid-snake.svg)
 
