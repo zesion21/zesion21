@@ -1,5 +1,5 @@
-# 👋 Welcome to My GitHub!
-I'm Zesion.
+## 👋 Welcome to My GitHub!
+Hello! I'm Zesion. 
 
 ## 🚀 Tech Stack
 ![Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nodejs,java,spring)
@@ -7,14 +7,13 @@ I'm Zesion.
 ## 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zesion21&show_icons=true&theme=radical)
 
-## 📚 Projects
-- **[Project Name]**: A brief description. [Link](#)
+<!--## 📚 Projects
+- **[Project Name]**: A brief description. [Link](#)-->
 
 ## 📬 Contact
 - Email: zechen21@foxmail.com
 - Bilibili: (https://space.bilibili.com/32763783)
 
-![Snake Animation](dist/github-contribution-grid-snake.svg)
 
 <!--
 **zesion21/zesion21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
