@@ -19,9 +19,21 @@ Hello! I'm Zesion.
 - Email: zechen21@foxmail.com
 - Bilibili: (https://space.bilibili.com/32763783)
 
- <iframe src="" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+## 📺 Anime Recommendations
 
-## 🎥 Watch My Intro
+Here are some of my favorite anime series that I highly recommend! 🎬
+
+- [**ぼっち・ざ・ろっく！**](https://ani.gamer.com.tw/animeVideo.php?sn=31599)
+
+  <img src="image/01.png" alt="ぼっち・ざ・ろっく！" width="200">
+
+- [**真夜中ぱんチ**](https://ani.gamer.com.tw/animeVideo.php?sn=38831)
+
+  <img src="image/02.png" alt="ぼっち・ざ・ろっく！" width="200">
+
+- [**日々は過ぎれど飯うまし**](https://ani.gamer.com.tw/animeVideo.php?sn=42917)
+
+  <img src="image/03.png" alt="日々は過ぎれど飯うまし" width="200">
 
 <!--
 **zesion21/zesion21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
