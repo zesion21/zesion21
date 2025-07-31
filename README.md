@@ -5,7 +5,7 @@ Hello! I'm Zesion.
 ![Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nodejs,java,spring)
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zesion21&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zesion21&show_icons=true&theme=tokyonight&bg_color=bg_color=30,004e95,904e95)
 
 <!--## 📚 Projects
 - **[Project Name]**: A brief description. [Link](#)-->
