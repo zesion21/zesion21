@@ -1,6 +1,6 @@
 ## 👋 Welcome to My GitHub!
 
-Hello! I'm Zesion.
+Hello! I'm zesion.
 
 ## 🚀 Tech Stack
 
